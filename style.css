@@ -113,4 +113,7 @@ background-color: #da8405;
         align-self:flex-start;
         width: 100vw;
     }
+    .keypad {
+        padding-bottom: 40px;
+    }
 }

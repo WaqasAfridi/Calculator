@@ -100,3 +100,16 @@ background-color: #da8405;
 .output-buttons:active {
     background-color: #919191;
 }
+@media screen and (max-width: 430px){
+    .outer-div {
+        height: 200%;
+        width: 100%;
+        margin: 0;
+    }
+    .screen{
+        height: 200px;
+    }
+    .calculator{
+        align-self:flex-start;
+    }
+}

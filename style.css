@@ -111,5 +111,6 @@ background-color: #da8405;
     }
     .calculator{
         align-self:flex-start;
+        width: 100vw;
     }
 }
